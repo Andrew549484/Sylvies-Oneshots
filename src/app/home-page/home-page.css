@@ -1,0 +1,15 @@
+.home-page-main{
+    padding: 20px;
+    opacity:1;
+}
+.home-page{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url(../../assets/DnD_Dragonimg.png);
+    background-color: rgba(245,231,198,0.6);
+    background-blend-mode: lighten;
+    background-size: 50% 100%;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
